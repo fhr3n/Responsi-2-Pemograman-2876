@@ -1,0 +1,6 @@
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Fahren\Repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
